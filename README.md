@@ -1,6 +1,6 @@
-# TapLog: Baby Tracker
+# iref
 
-This is the official website for **TapLog: Baby Tracker**, a mobile application designed to help parents track their baby's daily activities.
+This is the official website for **iref**, a mobile application designed to help parents track their baby's daily activities.
 
 ## Features
 - Track feedings (breastfeeding, bottle, solids)
