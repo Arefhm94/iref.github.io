@@ -1,6 +1,6 @@
-# iref
+# TapLogBaby
 
-This is the official website for **iref**, a mobile application designed to help parents track their baby's daily activities.
+This is the official website for **TapLogBaby**, a mobile application designed to help parents track their baby's daily activities.
 
 ## Features
 - Track feedings (breastfeeding, bottle, solids)
@@ -9,8 +9,8 @@ This is the official website for **iref**, a mobile application designed to help
 - Sync data across devices with Google or Apple sign-in
 
 ## Links
-- [Privacy Policy](https://iref.github.io/#privacy-policy)
-- [Terms of Service](https://iref.github.io/#terms-of-service)
+- [Privacy Policy](https://iref.github.io/privacy.html)
+- [Terms of Service](https://iref.github.io/terms.html)
 
 ## Contact
 For support or inquiries, please contact [arefsn89@gmail.com](mailto:arefsn89@gmail.com).
